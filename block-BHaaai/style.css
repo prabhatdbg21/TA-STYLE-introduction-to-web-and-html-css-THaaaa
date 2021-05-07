@@ -1,0 +1,39 @@
+h1{
+    color: white;
+    font-size: 48px;
+    text-align: center;
+}
+body {
+    background-color: rgb(4, 4, 80);
+}
+address{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: green;
+    font-size: 35px;
+}
+h3{
+    color: white;
+    font-size: 30px;
+}
+p{
+    color: white;
+}
+h4{
+    color: white;
+    font-size: 30px;
+}
+h5{
+    color: green;
+    font-size: 30px;
+}
+h6{
+    color: green;
+    font-size: 30px;
+}
+a{
+    font-size: 30px;
+    color: red;
+}
